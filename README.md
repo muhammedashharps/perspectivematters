@@ -1,6 +1,8 @@
 # Perspective Matters 🤔
 
 > "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes." - Marcel Proust
+
+
 > ![Prototype](prototype.gif)
 
 ## About the Project 🌟
@@ -29,6 +31,7 @@ In today's polarized world, we often struggle to understand viewpoints that diff
 ```
 User Input → Validation → Pro AI Agent ⚔️ Con AI Agent → Structured Debate
 ```
+> ![Prototype](workflow.png)
 
 ### 3. Safety Features
 - Smart content filtering
@@ -39,7 +42,7 @@ User Input → Validation → Pro AI Agent ⚔️ Con AI Agent → Structured De
 ## Technical Architecture 🏗️
 
 - **Frontend**: Flutter
-- **AI Engine**: Google Gemini API
+- **AI Engine**: Google Gemini AI
 - **Debate Flow**:
   - Topic Validation Layer
   - Pro Argument Generation
@@ -57,7 +60,7 @@ User Input → Validation → Pro AI Agent ⚔️ Con AI Agent → Structured De
 
 ## Philosophy Behind the App 📚
 
-Perspective Matters isn't just another debate app – it's a tool for intellectual exploration. By allowing AI agents to debate even seemingly implausible positions (like some extremely stupid ideas), users can:
+Even the persepctives of using this app can vary - it can be either be used as a tool for intellectual exploration or simply as a entertaining app where you can watch debates on any valid topic. By allowing AI agents to debate even seemingly implausible positions (no matter if the argument is extremely stupid or geneius), users can:
 
 1. Understand the construction of arguments
 2. Identify logical patterns and fallacies
@@ -69,8 +72,8 @@ Perspective Matters isn't just another debate app – it's a tool for intellectu
 
 ## Future Roadmap and Improvements Needed 🗺️
 
-- [ ] Imrpoved Realistic AI Voices
-- [ ] Custom Debate Parameters
+- [ ] Improved Realistic AI Voices
+- [ ] Custom Debate Parameters to scale aggression duuring debate
 - [ ] Need to add user authentication
 - [ ] Setup proper databases and store Debate Transcripts
 - [ ] Overall needed to make this production ready
