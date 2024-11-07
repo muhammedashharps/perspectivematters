@@ -1,6 +1,7 @@
 # Perspective Matters 🤔
 
 > "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes." - Marcel Proust
+> ![Prototype](prototype.gif)
 
 ## About the Project 🌟
 
